@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # アプリケーション本体（フレームワーク）
-gem "rails", "~> 8.0.4", ">= 8.0.4.1"
+gem "rails", "~> 8.0.4.1"
 
 # DB
 gem "pg", "~> 1.1"
